@@ -21,17 +21,14 @@
 
 <!--  -->
 \caption{Thực hành  xây dựng luồng nghiệp vụ (Business flow)}
-<!-- Business-flow.excalidraw.png -->
 <!-- Business-flow.png -->
 
 
 \caption{Thực hành  xây dựng          dòng dữ liệu giữa các hệ thống             (Data flow)}
-<!-- Data-flow.excalidraw.png -->
 <!-- Data-flow.png -->
 
 
 \caption{Thực hành  xây dựng  kiến trúc hệ thống phân tích dữ liệu}
-<!-- Architecture.excalidraw.png -->
 <!-- Architecture.png -->
 
 
