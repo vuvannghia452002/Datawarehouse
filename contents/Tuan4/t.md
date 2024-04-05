@@ -12,7 +12,7 @@
 \caption{Hướng dẫn chuyển đổi dữ liệu Tranpose}
 ![alt text](image-4.png)
 \caption{Hướng dẫn chuyển đổi dữ liệu Pivot}
-
+![alt text](image-5.png)
 <!--  -->
 
 \caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
