@@ -34,7 +34,6 @@
 
 <!-- Architecture.png -->
 
-🍀 Business flow: Luồng nghiệp vụ của đơn vị/doanh nghiệp
 
 Marketing:
 
@@ -74,6 +73,28 @@ Giới thiệu việc làm
 Hợp tác doanh nghiệp
 
 Tuyển sinh sau đại học
+
+
+
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
 🍀 Data flow: Dòng dữ liệu giữa các hệ thống
 
 🍀 Architecture: Kiến trúc hệ thống phân tích dữ liệu
