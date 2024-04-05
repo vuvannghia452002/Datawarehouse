@@ -3,7 +3,6 @@
 \caption{Hướng dẫn chuyển đổi dữ liệu Merge Query}
 ![alt text](image.png)
 \caption{Hướng dẫn chuyển đổi dữ liệu xxxxxxxxxxxxx}
-
 <!-- 9p17 -->
 
 \caption{Hướng dẫn chuyển đổi dữ liệu xxxxxxxxxxxxx}
