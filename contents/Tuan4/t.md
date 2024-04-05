@@ -20,24 +20,25 @@
 \caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
 
 <!--  -->
-
-Thực hành 4.2: Xây dựng Mô hình cho đơn vị mình
-Chúng ta vẽ 3 mô hình chính là
-
-🍀 Business flow: Luồng nghiệp vụ của đơn vị/doanh nghiệp
-🍀 Data flow: Dòng dữ liệu giữa các hệ thống
-🍀 Architecture: Kiến trúc hệ thống phân tích dữ liệu
-
-p/s: đơn vị mình là Trường Đại học Bách Khoa Hà nội nhé!
+\caption{Thực hành  xây dựng luồng nghiệp vụ (Business flow)}
+<!-- Business-flow.excalidraw.png -->
+<!-- Business-flow.png -->
 
 
+\caption{Thực hành  xây dựng          dòng dữ liệu giữa các hệ thống             (Data flow)}
+<!-- Data-flow.excalidraw.png -->
+<!-- Data-flow.png -->
+
+
+\caption{Thực hành  xây dựng  kiến trúc hệ thống phân tích dữ liệu}
+<!-- Architecture.excalidraw.png -->
+<!-- Architecture.png -->
 
 
 
 
 
-
-.
+ 
 
 🍀 Business flow: Luồng nghiệp vụ của đơn vị/doanh nghiệp
 
