@@ -25,8 +25,7 @@
 \caption{Thực hành xây dựng luồng nghiệp vụ (Business flow)}
 ![alt text](Bai2/ThucHanh/Business-flow.png)
 \caption{Thực hành xây dựng dòng dữ liệu giữa các hệ thống (Data flow)}
-
-<!-- Data-flow.png -->
+![alt text](Bai2/ThucHanh/Data-flow.png)
 
 \caption{Thực hành xây dựng kiến trúc hệ thống phân tích dữ liệu}
 
@@ -54,7 +53,15 @@
 <!--  -->
 <!--  -->
 <!--  -->
+
+
 🍀 Data flow: Dòng dữ liệu giữa các hệ thống
+
+
+
+
+
+
 
 🍀 Architecture: Kiến trúc hệ thống phân tích dữ liệu
 
@@ -72,55 +79,9 @@ Dim, Fact
 Người dùng cuối:
 Báo cáo
 Phân tích
-🍀 Business flow: Luồng nghiệp vụ của đơn vị/doanh nghiệp
-
-🍀 Data flow: Dòng dữ liệu giữa các hệ thống
-Marketing
-
-Các ban ngành, tổ chức liên kết
-
-Quản lý đào tạo
-
-Quản lý nhân viên
-
-Giảng viên
-
-Sinh viên
-Công tác sinh viên
-Ban tuyển sinh
-
-Viện trưởng
-
-🍀 Architecture: Kiến trúc hệ thống phân tích dữ liệu
-
-Hệ thống OLTP:
-Thực hiện nghiệp vụ
-CRM
-
-Event sourcing:
-Hàng đợi tin nhắn
-
-Hệ thống OLAP:
-Phân tích dữ liệu
-Dim, Fact
-
-Người dùng cuối:
-Báo cáo
-Phân tích
-
-<!-- 4.2  -->
-
-Thực hành 4.2: Xây dựng Mô hình cho đơn vị mình
-THỰC HÀNH 4.2: XÂY DỰNG CÁC MÔ HÌNH CHO ĐƠN VỊ MÌNH
-Các bạn thân mến,
-Để xây dựng các hệ thống phân tích dữ liệu được hiệu quả ta cần hiểu biết về nghiệp vụ, hệ thống phần mềm và hệ thống phân tích.
-Các bạn vẽ ra giấy hoặc power point cho đơn vị của mình/doanh nghiệp của mình rồi chụp ảnh comment để mình góp ý nhé.
-Chúng ta vẽ 3 mô hình chính là
-🍀 Business flow: Luồng nghiệp vụ của đơn vị/doanh nghiệp
-🍀 Data flow: Dòng dữ liệu giữa các hệ thống
-🍀 Architecture: Kiến trúc hệ thống phân tích dữ liệu
-p/s: đơn vị mình là Trường Đại học Bách Khoa Hà nội nhé!
-
+ 
+ 
+  
 <!--  -->
 
 Thực hành 5.1: Power Query & Dash
