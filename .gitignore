@@ -1,7 +1,7 @@
 temp
 *.mp4
 ~$*.xlsx
-Tuan*.pdf
+*.pdf
 
 
 *.aux
