@@ -1,12 +1,44 @@
-\subsubsection{Video 3}
+<!-- !\subsubsection{Video 3} -->
 
+\caption{Hướng dẫn Load dữ liệu và xây dựng Data Model }
+![alt text](Bai1/Video3/HuongDan/image.png)
 
-\subsubsection{Video 4}
+<!-- Dim & Fact: Bảng nào là dữ liệu động, bảng nào là dữ liệu tĩnh? -->
 
+Dim là bảng dữ liệu tĩnh
+Fact là bảng dữ liệu động
 
-\subsubsection{Video 5}
+<!-- Có những dạng data model nào? -->
 
+Những dạng data model phổ biến bao gồm:
+Mô hình dữ liệu quan hệ: Dữ liệu được tổ chức thành các bảng có mối quan hệ với nhau thông qua các khóa chính và khóa ngoại.
+Mô hình dữ liệu đa chiều: Dữ liệu được tổ chức thành các bảng chi tiết và bảng số liệu, tạo nên một không gian dữ liệu đa chiều để phân tích.
+Mô hình dữ liệu NoSQL
+Mô hình dữ liệu đồ thị: Dữ liệu được biểu diễn dưới dạng đồ thị với các đỉnh và cạnh để mô tả mối quan hệ giữa các đối tượng.
 
+<!--  -->
+
+\caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
+
+Bài tập cơ bản: Thực hành với sheet Sale của file KinhDoanh.xlsx:
+
+1. ETL dữ liệu
+2. Viết requirement
+3. Lên bảng danh mục các cột (vẽ voi)
+4. Phân tích Dim & Fact
+5. Vẽ data model
+
+Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx:
+
+1. ETL dữ liệu (Merge 2 sheet với nhau)
+2. Viết requirement
+3. Lên bảng danh mục các cột (vẽ voi)
+4. Phân tích Dim & Fact
+5. Vẽ data model
+
+<!-- !\subsubsection{Video 4} -->
+
+<!-- !\subsubsection{Video 5} -->
 
 <!--  -->
 
