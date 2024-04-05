@@ -22,16 +22,6 @@
 
 <!--  -->
 
-\caption{Thực hành xây dựng luồng nghiệp vụ (Business flow)}
-![alt text](Bai2/ThucHanh/Business-flow.png)
-\caption{Thực hành xây dựng dòng dữ liệu giữa các hệ thống (Data flow)}
-![alt text](Bai2/ThucHanh/Data-flow.png)
-\caption{Thực hành xây dựng kiến trúc hệ thống phân tích dữ liệu}
-![alt text](Bai2/ThucHanh/Architecture.png)
-
-
-
- 
  
   
 <!--  -->
