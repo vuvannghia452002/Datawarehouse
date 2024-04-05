@@ -23,7 +23,7 @@
 <!--  -->
 
 \caption{Thực hành xây dựng luồng nghiệp vụ (Business flow)}
-
+![alt text](image-1.png)
 <!-- Business-flow.png -->
 
 \caption{Thực hành xây dựng dòng dữ liệu giữa các hệ thống (Data flow)}
@@ -34,45 +34,6 @@
 
 <!-- Architecture.png -->
 
-
-Marketing:
-
-Cập nhật thông tin, chính sách
-Giới thiệu ngành học
-Giới thiệu cơ sở vật chất
-
-Tuyển sinh:
-
-Thực hiện xét tuyển
-
-Nhập học:
-
-Kiểm tra thông tin
-Xác nhận nhập học
-
-Quản lý giảng viên
-
-Tổ chức học tập:
-
-Đăng ký học phần
-Xếp lớp đăng ký
-Đăng ký lớp học
-Điều chỉnh đăng ký lớp học
-Theo dõi và đánh giá
-Thu học phí
-Thực hiện thi cử
-
-Tổ chức các hoạt động khác:
-
-Điểm rèn luyện
-Tình nguyện
-
-Việc làm:
-
-Giới thiệu việc làm
-Hợp tác doanh nghiệp
-
-Tuyển sinh sau đại học
 
 
 
