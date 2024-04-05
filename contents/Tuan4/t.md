@@ -27,35 +27,10 @@
 \caption{Thực hành xây dựng dòng dữ liệu giữa các hệ thống (Data flow)}
 ![alt text](Bai2/ThucHanh/Data-flow.png)
 \caption{Thực hành xây dựng kiến trúc hệ thống phân tích dữ liệu}
-
-
-<!-- Architecture.png -->
-
-
- 
+![alt text](Bai2/ThucHanh/Architecture.png)
 
 
 
-
-
-
-
-🍀 Architecture: Kiến trúc hệ thống phân tích dữ liệu
-
-Hệ thống OLTP:
-Thực hiện nghiệp vụ
-CRM
-
-Event sourcing:
-Hàng đợi tin nhắn
-
-Hệ thống OLAP:
-Phân tích dữ liệu
-Dim, Fact
-
-Người dùng cuối:
-Báo cáo
-Phân tích
  
  
   
