@@ -2,17 +2,16 @@
 
 \caption{Hướng dẫn chuyển đổi dữ liệu Merge Query}
 ![alt text](image.png)
-\caption{Hướng dẫn chuyển đổi dữ liệu xxxxxxxxxxxxx}
+\caption{Hướng dẫn chuyển đổi dữ liệu Append Query}
+![alt text](image-1.png)
+\caption{Hướng dẫn chuyển đổi dữ liệu Group by}
+![alt text](image-2.png)
 
-<!-- 9p17 -->
-
-\caption{Hướng dẫn chuyển đổi dữ liệu xxxxxxxxxxxxx}
-
-\caption{Hướng dẫn chuyển đổi dữ liệu xxxxxxxxxxxxx}
-
-\caption{Hướng dẫn chuyển đổi dữ liệu xxxxxxxxxxxxx}
-
-\caption{Hướng dẫn chuyển đổi dữ liệu xxxxxxxxxxxxx}
+\caption{Hướng dẫn chuyển đổi dữ liệu Unpivot}
+![alt text](image-3.png)
+\caption{Hướng dẫn chuyển đổi dữ liệu Tranpose}
+![alt text](image-4.png)
+\caption{Hướng dẫn chuyển đổi dữ liệu Pivot}
 
 <!--  -->
 
@@ -48,4 +47,3 @@ Thực hành 5.2: XÂY DỰNG DASHBOARD TRÊN GOOGLE DATA STUDIO
 Các bạn thực hành 3 video đầu tiên và comment ảnh kết quả vào bài viết này để mình góp ý nhé!
 Đây là danh sách video học Data visual studio.
 https://www.youtube.com/watch?v=1qGsjmmHiu8...
-
