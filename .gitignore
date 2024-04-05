@@ -1,0 +1,15 @@
+temp
+*.mp4
+~$*.xlsx
+Tuan*.pdf
+
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.out
+*.toc
+*.lof
+*.synctex(busy)

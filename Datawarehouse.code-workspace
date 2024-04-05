@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "Datawarehouse",
+			"path": "."
+		},
+		{
+			"name": "tools",
+			"path": "contents/tools"
+		},
+		{
+			"path": "contents/Tuan4"
+		}
+	],
+	"settings": {
+		// "latex-workshop.latex.autoBuild.run": "onFileChange"
+	}
+}
