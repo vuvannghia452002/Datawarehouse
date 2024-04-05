@@ -1,21 +1,52 @@
 \subsubsection{Video 2}
 
 \caption{Hướng dẫn chuyển đổi dữ liệu Merge Query}
-![alt text](image.png)
+![alt text](Bai1/Video2/HuongDan/0.png)
 \caption{Hướng dẫn chuyển đổi dữ liệu Append Query}
-![alt text](image-1.png)
+![alt text](Bai1/Video2/HuongDan/1.png)
 \caption{Hướng dẫn chuyển đổi dữ liệu Group by}
-![alt text](image-2.png)
+![alt text](Bai1/Video2/HuongDan/2.png)
 
 \caption{Hướng dẫn chuyển đổi dữ liệu Unpivot}
-![alt text](image-3.png)
+![alt text](Bai1/Video2/HuongDan/3.png)
 \caption{Hướng dẫn chuyển đổi dữ liệu Tranpose}
-![alt text](image-4.png)
+![alt text](Bai1/Video2/HuongDan/4.png)
 \caption{Hướng dẫn chuyển đổi dữ liệu Pivot}
-![alt text](image-5.png)
+![alt text](Bai1/Video2/HuongDan/5.png)
 
 \caption{Thực hành kết hợp: Tranpose, Pivot, Unpivot}
+ 
 
+
+
+
+
+Column1	Column2	Column3	Column4	Column5
+Công ty	A	B	C	D
+12 tháng dự báo	30	23	45	27
+24 tháng dự báo	90	50	73	82
+36 tháng dự báo	172	100	185	200
+12 tháng thực tế	69	27	40	47
+24 tháng thực tế	130	92	85	190
+36 tháng thực tế	392	322	170	183
+
+
+
+Công ty	Chu kì	Dự báo	Thực tế
+A	12 tháng	30	69
+A	24 tháng	90	130
+A	36 tháng	172	392
+B	12 tháng	23	27
+B	24 tháng	50	92
+B	36 tháng	100	322
+C	12 tháng	45	40
+C	24 tháng	73	85
+C	36 tháng	185	170
+D	12 tháng	27	47
+D	24 tháng	82	190
+D	36 tháng	200	183
+
+\subsubsection{Video 3}
     
 <!--  -->
 
