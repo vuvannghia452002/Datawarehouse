@@ -37,7 +37,6 @@ p/s: đơn vị mình là Trường Đại học Bách Khoa Hà nội nhé!
 
 
 
-
 .
 
 🍀 Business flow: Luồng nghiệp vụ của đơn vị/doanh nghiệp
