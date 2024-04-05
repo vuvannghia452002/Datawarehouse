@@ -1,25 +1,7 @@
-\subsubsection{Video 2}
 
-\caption{Hướng dẫn chuyển đổi dữ liệu Merge Query}
-![alt text](Bai1/Video2/HuongDan/0.png)
-\caption{Hướng dẫn chuyển đổi dữ liệu Append Query}
-![alt text](Bai1/Video2/HuongDan/1.png)
-\caption{Hướng dẫn chuyển đổi dữ liệu Group by}
-![alt text](Bai1/Video2/HuongDan/2.png)
-
-\caption{Hướng dẫn chuyển đổi dữ liệu Unpivot}
-![alt text](Bai1/Video2/HuongDan/3.png)
-\caption{Hướng dẫn chuyển đổi dữ liệu Tranpose}
-![alt text](Bai1/Video2/HuongDan/4.png)
-\caption{Hướng dẫn chuyển đổi dữ liệu Pivot}
-![alt text](Bai1/Video2/HuongDan/5.png)
 
 \caption{Thực hành kết hợp: Tranpose, Pivot, Unpivot}
  
-
-
-
-
 
 Column1	Column2	Column3	Column4	Column5
 Công ty	A	B	C	D
