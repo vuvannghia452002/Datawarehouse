@@ -3,6 +3,7 @@
 \caption{Hướng dẫn chuyển đổi dữ liệu Merge Query}
 ![alt text](image.png)
 \caption{Hướng dẫn chuyển đổi dữ liệu xxxxxxxxxxxxx}
+
 <!-- 9p17 -->
 
 \caption{Hướng dẫn chuyển đổi dữ liệu xxxxxxxxxxxxx}
@@ -20,83 +21,62 @@
 \caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
 
 <!--  -->
-\caption{Thực hành  xây dựng luồng nghiệp vụ (Business flow)}
+
+\caption{Thực hành xây dựng luồng nghiệp vụ (Business flow)}
+
 <!-- Business-flow.png -->
 
+\caption{Thực hành xây dựng dòng dữ liệu giữa các hệ thống (Data flow)}
 
-\caption{Thực hành  xây dựng          dòng dữ liệu giữa các hệ thống             (Data flow)}
 <!-- Data-flow.png -->
 
+\caption{Thực hành xây dựng kiến trúc hệ thống phân tích dữ liệu}
 
-\caption{Thực hành  xây dựng  kiến trúc hệ thống phân tích dữ liệu}
 <!-- Architecture.png -->
-
-
-
-
-
- 
 
 🍀 Business flow: Luồng nghiệp vụ của đơn vị/doanh nghiệp
 
 Marketing:
 
-
-Cập nhật thông tin, chính sách 
+Cập nhật thông tin, chính sách
 Giới thiệu ngành học
 Giới thiệu cơ sở vật chất
 
 Tuyển sinh:
 
-
 Thực hiện xét tuyển
 
 Nhập học:
 
-
-Kiểm tra thông tin 
+Kiểm tra thông tin
 Xác nhận nhập học
 
-
-Quản lý giảng viên 
-
+Quản lý giảng viên
 
 Tổ chức học tập:
-
-
 
 Đăng ký học phần
 Xếp lớp đăng ký
 Đăng ký lớp học
-Điều chỉnh đăng ký lớp học 
+Điều chỉnh đăng ký lớp học
 Theo dõi và đánh giá
 Thu học phí
 Thực hiện thi cử
 
-
-
 Tổ chức các hoạt động khác:
 
-
-
-
-Điểm rèn luyện 
+Điểm rèn luyện
 Tình nguyện
-
 
 Việc làm:
 
-Giới thiệu việc làm 
+Giới thiệu việc làm
 Hợp tác doanh nghiệp
-
-
 
 Tuyển sinh sau đại học
 🍀 Data flow: Dòng dữ liệu giữa các hệ thống
 
-
 🍀 Architecture: Kiến trúc hệ thống phân tích dữ liệu
-
 
 Hệ thống OLTP:
 Thực hiện nghiệp vụ
@@ -107,30 +87,23 @@ Hàng đợi tin nhắn
 
 Hệ thống OLAP:
 Phân tích dữ liệu
-Dim, Fact 
-
+Dim, Fact
 
 Người dùng cuối:
-Báo cáo 
+Báo cáo
 Phân tích
 🍀 Business flow: Luồng nghiệp vụ của đơn vị/doanh nghiệp
-
-
-
 
 🍀 Data flow: Dòng dữ liệu giữa các hệ thống
 Marketing
 
 Các ban ngành, tổ chức liên kết
 
-
-
 Quản lý đào tạo
 
 Quản lý nhân viên
 
 Giảng viên
-
 
 Sinh viên
 Công tác sinh viên
@@ -140,7 +113,6 @@ Viện trưởng
 
 🍀 Architecture: Kiến trúc hệ thống phân tích dữ liệu
 
-
 Hệ thống OLTP:
 Thực hiện nghiệp vụ
 CRM
@@ -150,17 +122,14 @@ Hàng đợi tin nhắn
 
 Hệ thống OLAP:
 Phân tích dữ liệu
-Dim, Fact 
-
+Dim, Fact
 
 Người dùng cuối:
-Báo cáo 
+Báo cáo
 Phân tích
 
-
-
-
 <!-- 4.2  -->
+
 Thực hành 4.2: Xây dựng Mô hình cho đơn vị mình
 THỰC HÀNH 4.2: XÂY DỰNG CÁC MÔ HÌNH CHO ĐƠN VỊ MÌNH
 Các bạn thân mến,
@@ -171,8 +140,8 @@ Chúng ta vẽ 3 mô hình chính là
 🍀 Data flow: Dòng dữ liệu giữa các hệ thống
 🍀 Architecture: Kiến trúc hệ thống phân tích dữ liệu
 p/s: đơn vị mình là Trường Đại học Bách Khoa Hà nội nhé!
-<!--  -->
 
+<!--  -->
 
 Thực hành 5.1: Power Query & Dash
 THỰC HÀNH 5.1: POWER QUERY & DASH
@@ -192,11 +161,7 @@ https://www.youtube.com/watch?v=0pGY92wHzWE
 link file thực hành:
 1P/view?fbclid=IwAR2tQ-VVfxDOZlIrTiynHgI4n84I3D6vW1buRLCTi8FnOgvZnfkyihrjT1s
 
-
-
 <!--  -->
-
-
 
 Thực hành 5.2: XÂY DỰNG DASHBOARD TRÊN GOOGLE DATA STUDIO
 THỰC HÀNH 5.2: XÂY DỰNG DASHBOARD TRÊN GOOGLE DATA STUDIO
@@ -210,12 +175,13 @@ Các bạn thực hành 3 video đầu tiên và comment ảnh kết quả vào 
 Đây là danh sách video học Data visual studio.
 https://www.youtube.com/watch?v=1qGsjmmHiu8...
 Hướng dẫn nộp bài tập
+
 1. 👉 Làm theo bài tập yêu cầu trên máy của mình
 2. 👉 Chụp ảnh màn hình thực hiện vào phần COMMENT.
-❗ Ảnh cần có thông tin MSSV và họ và tên mới được tính.
+   ❗ Ảnh cần có thông tin MSSV và họ và tên mới được tính.
 3. 👉 Up ảnh lên trên folder driver của mình (Gmail). Chú ý: Đặt tên chuẩn để theo dõi
-Tạo một folder cha có thông tin mã số sinh viên. VD: 20206112-Nguyễn Đức Anh
-Mỗi tuần có một folder con và đặt tên theo tuần. VD: Tuần 1
+   Tạo một folder cha có thông tin mã số sinh viên. VD: 20206112-Nguyễn Đức Anh
+   Mỗi tuần có một folder con và đặt tên theo tuần. VD: Tuần 1
 4. 👉 Điền thông tin trên link Sổ bài tập về nhà. (làm 1 lần với tuần đầu tiên)
 5. 👉 Điền số lượng bài tập hoàn thành của tuần đó
 
