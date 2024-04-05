@@ -21,9 +21,15 @@
 \caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
 
 <!--  -->
-
- 
-  
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
 <!--  -->
 
 Thực hành 5.1: Power Query & Dash
