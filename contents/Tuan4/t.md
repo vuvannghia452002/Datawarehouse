@@ -23,9 +23,7 @@
 <!--  -->
 
 \caption{Thực hành xây dựng luồng nghiệp vụ (Business flow)}
-![alt text](image-1.png)
-<!-- Business-flow.png -->
-
+![alt text](Bai2/ThucHanh/Business-flow.png)
 \caption{Thực hành xây dựng dòng dữ liệu giữa các hệ thống (Data flow)}
 
 <!-- Data-flow.png -->
