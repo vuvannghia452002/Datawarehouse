@@ -33,14 +33,6 @@
 <!--  -->
 
 Thực hành 5.1: Power Query & Dash
-THỰC HÀNH 5.1: POWER QUERY & DASH
-Gửi cả nhà video thực hành cho tuần 5 nhé!
-Chúc cả nhà cuối tuần vui vẻ ❤
-Bạn làm theo các nội dung sau:
-THỰC HÀNH
-A1. Thực hành theo video
-A2. 👉 Comment ảnh kết quả để được giảng viên nhận xét
-A3. Đưa ảnh lên folder và điền số lượng bài tập (Chú ý: Ảnh có thông tin MSSV+Họ và tên trong ảnh)
 PHÂN TÍCH
 B1. Đọc dashboard, phân tích 👉 comment kết quả
 B2. Xác định các chiều (DIM), các các yếu tố phân tích (FACT)👉 comment kết quả
@@ -53,25 +45,7 @@ link file thực hành:
 <!--  -->
 
 Thực hành 5.2: XÂY DỰNG DASHBOARD TRÊN GOOGLE DATA STUDIO
-THỰC HÀNH 5.2: XÂY DỰNG DASHBOARD TRÊN GOOGLE DATA STUDIO
-Các bạn thân mến,
-Mình gửi các bạn tài liệu thực hành về Google Data Studio.
-ƯU ĐIỂM:
-Dễ dàng
-Kết nối tốt với các hệ thống online.
-Free
 Các bạn thực hành 3 video đầu tiên và comment ảnh kết quả vào bài viết này để mình góp ý nhé!
 Đây là danh sách video học Data visual studio.
 https://www.youtube.com/watch?v=1qGsjmmHiu8...
-Hướng dẫn nộp bài tập
 
-1. 👉 Làm theo bài tập yêu cầu trên máy của mình
-2. 👉 Chụp ảnh màn hình thực hiện vào phần COMMENT.
-   ❗ Ảnh cần có thông tin MSSV và họ và tên mới được tính.
-3. 👉 Up ảnh lên trên folder driver của mình (Gmail). Chú ý: Đặt tên chuẩn để theo dõi
-   Tạo một folder cha có thông tin mã số sinh viên. VD: 20206112-Nguyễn Đức Anh
-   Mỗi tuần có một folder con và đặt tên theo tuần. VD: Tuần 1
-4. 👉 Điền thông tin trên link Sổ bài tập về nhà. (làm 1 lần với tuần đầu tiên)
-5. 👉 Điền số lượng bài tập hoàn thành của tuần đó
-
-<!--  -->
