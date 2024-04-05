@@ -13,6 +13,10 @@
 ![alt text](image-4.png)
 \caption{Hướng dẫn chuyển đổi dữ liệu Pivot}
 ![alt text](image-5.png)
+
+\caption{Thực hành kết hợp: Tranpose, Pivot, Unpivot}
+
+    
 <!--  -->
 
 \caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
