@@ -24,29 +24,21 @@ Mô hình dữ liệu đồ thị: Dữ liệu được biểu diễn dưới d�
 
 <!-- ! Bài tập cơ bản: Thực hành với sheet Sale của file KinhDoanh.xlsx: -->
 <!-- 1. ETL dữ liệu -->
-<!-- !hình ảnh -->
-df['Tổng doanh thu'] = (df['Số lượng đặt'] _ df['Giá bán'] _ (1 - df['Giảm giá'])) + df['Phí vận chuyển']
-
-
+![alt text](image-2.png)
 <!-- 2. Viết requirement -->
 
 Phân tích về doanh thu trên khía cạnh thời gian.
 
 <!-- 3. Lên bảng danh mục các cột (vẽ voi) -->
+
 ![alt text](image-1.png)
 
-
-
-
-
 <!-- 4. Phân tích Dim & Fact -->
-![alt text](image.png)
+
+![alt text](image-3.png)
+
 <!-- 5. Vẽ data model -->
 <!-- !     diagram -->
-
-
-
-
 
 <!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
 <!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
