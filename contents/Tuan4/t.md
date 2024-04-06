@@ -43,10 +43,10 @@ Thời gian
 <!-- Nhân viên sale		Loại mặt hàng			Hình thức vận chuyển		Đóng gói -->
 
 <!-- 4. Phân tích Dim & Fact -->
-<!-- !ảnh -->
+<!-- !  ảnh -->
 
 <!-- 5. Vẽ data model -->
-<!-- !hcn -->
+<!-- !   hcn d -->
 
 <!-- Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
 
@@ -66,6 +66,22 @@ Thời gian
 <!-- !\subsubsection{Video 4} -->
 <!-- !\subsubsection{Video 4} -->
 
+
+
+
+
+
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
+<!-- !\subsubsection{Video 5} -->
 <!-- !\subsubsection{Video 5} -->
 
 <!--  -->
