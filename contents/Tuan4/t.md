@@ -15,7 +15,8 @@ Mô hình dữ liệu quan hệ: Dữ liệu được tổ chức thành các b�
 Mô hình dữ liệu đa chiều: Dữ liệu được tổ chức thành các bảng chi tiết và bảng số liệu, tạo nên một không gian dữ liệu đa chiều để phân tích.
 Mô hình dữ liệu NoSQL
 Mô hình dữ liệu đồ thị: Dữ liệu được biểu diễn dưới dạng đồ thị với các đỉnh và cạnh để mô tả mối quan hệ giữa các đối tượng.
-
+<!--  -->
+Xác định yêu cầu kinh doanh cụ thể mà bạn muốn phân tích dữ liệu, ví dụ: doanh số bán hàng theo tháng, doanh thu từng loại mặt hàng, hiệu suất của từng nhân viên bán hàng, v.v
 <!--  -->
 
 \caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
@@ -77,6 +78,33 @@ Thời gian
 ![alt text](Bai1/Video4/HuongDan/4.png)
 
 
+Hãy sử dụng các thao tác Add Column, Group By để làm ví dụ sau:			
+			
+Nếu Sản phẩm là Máy in, Máy chiếu thì nó thuộc loại Thiết bị, còn lại sẽ thuộc loại  Dụng cụ			
+Nếu nhân viên bán được trên 650 dụng cụ hoặc 450 thiết bị thì sẽ được thưởng 2% lương			
+Ngược lại thì sẽ được thưởng 1% lương			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+Ngày	Sản phẩm	Người bán	Số lượng	Giá tiền	Tiền lãi
+7/1/2020	Máy in	Lan Anh	10	80	8%
+7/1/2020	Bảng trắng	Thảo	18	40	6%
+
+
+
+
+
+
+Loại	Người bán	Số lượng tổng	Thưởng
+Dụng cụ	Duyên	705	0.02
+Dụng cụ	Hiền	744	0.02
 
 <!-- !\subsubsection{Video 5} -->
 <!-- !\subsubsection{Video 5} -->
@@ -96,32 +124,3 @@ Thời gian
 \caption{Hướng dẫn xxxxxxxxxxxxxxxxxxxxxx}
 
 \caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
-
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-
-Thực hành 5.1: Power Query & Dash
-PHÂN TÍCH
-B1. Đọc dashboard, phân tích 👉 comment kết quả
-B2. Xác định các chiều (DIM), các các yếu tố phân tích (FACT)👉 comment kết quả
-B3. Sử dụng công cụ Remove Duplicate để tạo ra con voi khái niệm các chiều.👉 comment kết quả
-Chúc các bạn học tốt ❤
-https://www.youtube.com/watch?v=0pGY92wHzWE
-link file thực hành:
-1P/view?fbclid=IwAR2tQ-VVfxDOZlIrTiynHgI4n84I3D6vW1buRLCTi8FnOgvZnfkyihrjT1s
-
-<!--  -->
-
-Thực hành 5.2: XÂY DỰNG DASHBOARD TRÊN GOOGLE DATA STUDIO
-Các bạn thực hành 3 video đầu tiên và comment ảnh kết quả vào bài viết này để mình góp ý nhé!
-Đây là danh sách video học Data visual studio.
-https://www.youtube.com/watch?v=1qGsjmmHiu8...
