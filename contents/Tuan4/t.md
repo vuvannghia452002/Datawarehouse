@@ -65,16 +65,16 @@ Thời gian
 <!-- !\subsubsection{Video 4} -->
 <!-- !\subsubsection{Video 4} -->
 <!-- !\subsubsection{Video 4} -->
-
-
-1. Add column bằng những phép tính toán, bằng các công cụ như Split Column, Merge Column
-<!-- 2. Add index column -->
-![alt text](image.png)
-3. Add duplicate column
-4. Add custom column
-5. Add conditional column
-6. Add column bằng Invoke function
-
+\caption{Hướng dẫn thực hiện  Add index column}
+![alt text](Bai1/Video4/HuongDan/image.png)
+\caption{Hướng dẫn thực hiện  Add duplicate column}
+![alt text](Bai1/Video4/HuongDan/image-1.png)
+\caption{Hướng dẫn thực hiện  Add conditional column}
+![alt text](Bai1/Video4/HuongDan/image-2.png)
+\caption{Hướng dẫn thực hiện  Add custom column}
+![alt text](Bai1/Video4/HuongDan/image-3.png)
+\caption{Hướng dẫn thực hiện  Add column bằng Invoke function}
+![alt text](Bai1/Video4/HuongDan/image-4.png)
 
 
 
