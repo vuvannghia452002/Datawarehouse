@@ -16,27 +16,22 @@ Mô hình dữ liệu quan hệ: Dữ liệu được tổ chức thành các b�
 Mô hình dữ liệu đa chiều: Dữ liệu được tổ chức thành các bảng chi tiết và bảng số liệu, tạo nên một không gian dữ liệu đa chiều để phân tích.
 Mô hình dữ liệu đồ thị: Dữ liệu được biểu diễn dưới dạng đồ thị với các đỉnh và cạnh để mô tả mối quan hệ giữa các đối tượng.
 
-<!--  -->
-
-<!--  -->
-
-\caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
 
 <!-- ! Bài tập cơ bản: Thực hành với sheet Sale của file KinhDoanh.xlsx: -->
 <!-- 1. ETL dữ liệu -->
 ![alt text](image-2.png)
-![alt text](image.png)
+![alt text](Bai1/Video3/ThucHanh/image.png)
 <!-- 2. Viết requirement -->
 
 Phân tích về doanh thu trên khía cạnh thời gian.
 
 <!-- 3. Lên bảng danh mục các cột (vẽ voi) -->
 
-![alt text](image-1.png)
+![alt text](Bai1/Video3/ThucHanh/image-1.png)
 
 <!-- 4. Phân tích Dim & Fact -->
 
-![alt text](image-3.png)
+![alt text](Bai1/Video3/ThucHanh/image-3.png)
 
 <!-- 5. Vẽ data model -->
 <!-- !     diagram -->
