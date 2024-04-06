@@ -19,19 +19,15 @@ Mô hình dữ liệu đồ thị: Dữ liệu được biểu diễn dưới d�
 
 <!-- ! Bài tập cơ bản: Thực hành với sheet Sale của file KinhDoanh.xlsx: -->
 <!-- 1. ETL dữ liệu -->
-![alt text](image-2.png)
 ![alt text](Bai1/Video3/ThucHanh/image.png)
 <!-- 2. Viết requirement -->
 
 Phân tích về doanh thu trên khía cạnh thời gian.
 
 <!-- 3. Lên bảng danh mục các cột (vẽ voi) -->
-
 ![alt text](Bai1/Video3/ThucHanh/image-1.png)
-
 <!-- 4. Phân tích Dim & Fact -->
-
-![alt text](Bai1/Video3/ThucHanh/image-3.png)
+![alt text](Bai1/Video3/ThucHanh/image-2.png)
 
 <!-- 5. Vẽ data model -->
 <!-- !     diagram -->
