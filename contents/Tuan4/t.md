@@ -5,8 +5,8 @@
 
 <!-- Dim & Fact: Bảng nào là dữ liệu động, bảng nào là dữ liệu tĩnh? -->
 
-Dim là bảng dữ liệu tĩnh
-Fact là bảng dữ liệu động
+Dim là bảng dữ liệu tĩnh. Dim cung cấp các thông tin, ngữ cảnh cho bảng Fact.
+Fact là bảng dữ liệu động. Fact Có độ đo có thể tính toán được dựa trên các Dim.
 
 <!-- Có những dạng data model nào? -->
 
@@ -20,22 +20,50 @@ Mô hình dữ liệu đồ thị: Dữ liệu được biểu diễn dưới d�
 
 \caption{Thực hành xxxxxxxxxxxxxxxxxxxxxx}
 
-Bài tập cơ bản: Thực hành với sheet Sale của file KinhDoanh.xlsx:
+<!-- Bài tập cơ bản: Thực hành với sheet Sale của file KinhDoanh.xlsx: -->
 
-1. ETL dữ liệu
-2. Viết requirement
-3. Lên bảng danh mục các cột (vẽ voi)
-4. Phân tích Dim & Fact
-5. Vẽ data model
+<!-- 1. ETL dữ liệu -->
 
-Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx:
+<!-- !hình ảnh -->
 
-1. ETL dữ liệu (Merge 2 sheet với nhau)
-2. Viết requirement
-3. Lên bảng danh mục các cột (vẽ voi)
-4. Phân tích Dim & Fact
-5. Vẽ data model
+<!-- 2. Viết requirement -->
 
+<!-- !Phân tích về -->
+
+<!-- !Trên khía cạnh   -->
+
+<!-- Phân tích về   Doanh thu -->
+<!-- Trên khía cạnh  -->
+
+Tỉnh thành
+Thời gian
+
+<!-- 3. Lên bảng danh mục các cột (vẽ voi) -->
+<!-- !sheeet -->
+<!-- Nhân viên sale		Loại mặt hàng			Hình thức vận chuyển		Đóng gói -->
+
+<!-- 4. Phân tích Dim & Fact -->
+<!-- !ảnh -->
+
+<!-- 5. Vẽ data model -->
+<!-- !hcn -->
+
+<!-- Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
+
+<!-- 1. ETL dữ liệu (Merge 2 sheet với nhau) -->
+<!-- 2. Viết requirement -->
+<!-- 3. Lên bảng danh mục các cột (vẽ voi) -->
+<!-- 4. Phân tích Dim & Fact -->
+<!-- 5. Vẽ data model -->
+
+<!-- !\subsubsection{Video 4} -->
+<!-- !\subsubsection{Video 4} -->
+<!-- !\subsubsection{Video 4} -->
+<!-- !\subsubsection{Video 4} -->
+<!-- !\subsubsection{Video 4} -->
+<!-- !\subsubsection{Video 4} -->
+<!-- !\subsubsection{Video 4} -->
+<!-- !\subsubsection{Video 4} -->
 <!-- !\subsubsection{Video 4} -->
 
 <!-- !\subsubsection{Video 5} -->
