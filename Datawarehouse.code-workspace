@@ -1,18 +1,27 @@
 {
-	"folders": [
-		{
-			"name": "Datawarehouse",
-			"path": "."
-		},
-		{
-			"name": "tools",
-			"path": "contents/tools"
-		},
-		{
-			"path": "contents/Tuan4"
-		}
-	],
-	"settings": {
-		// "latex-workshop.latex.autoBuild.run": "onFileChange"
-	}
+  "folders": [
+    {
+      "name": "Datawarehouse",
+      "path": "."
+    },
+    {
+      "name": "tools",
+      "path": "contents/tools"
+    },
+    {
+      "path": "contents/Tuan1"
+    },
+    {
+      "path": "contents/Tuan2"
+    },
+    {
+      "path": "contents/Tuan3"
+    },
+    {
+      "path": "contents/Tuan4"
+    }
+  ],
+  "settings": {
+    "latex-workshop.latex.autoBuild.run": "onFileChange"
+  }
 }
