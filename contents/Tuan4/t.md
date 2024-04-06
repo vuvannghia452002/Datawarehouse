@@ -67,6 +67,13 @@ Thời gian
 <!-- !\subsubsection{Video 4} -->
 
 
+1. Add column bằng những phép tính toán, bằng các công cụ như Split Column, Merge Column
+<!-- 2. Add index column -->
+![alt text](image.png)
+3. Add duplicate column
+4. Add custom column
+5. Add conditional column
+6. Add column bằng Invoke function
 
 
 
