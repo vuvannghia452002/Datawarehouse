@@ -24,27 +24,37 @@ Mô hình dữ liệu đồ thị: Dữ liệu được biểu diễn dưới d�
 
 <!-- ! Bài tập cơ bản: Thực hành với sheet Sale của file KinhDoanh.xlsx: -->
 <!-- 1. ETL dữ liệu -->
-
-# Tính toán cột mới 'Tổng doanh thu' = ('Số lượng đặt' _ 'Giá bán') _ (1 - 'Giảm giá') + 'Phí vận chuyển'
-
+<!-- !hình ảnh -->
 df['Tổng doanh thu'] = (df['Số lượng đặt'] _ df['Giá bán'] _ (1 - df['Giảm giá'])) + df['Phí vận chuyển']
 
-<!-- !hình ảnh -->
 
 <!-- 2. Viết requirement -->
 
 Phân tích về doanh thu trên khía cạnh thời gian.
 
 <!-- 3. Lên bảng danh mục các cột (vẽ voi) -->
-<!-- !sheeet -->
-<!-- Nhân viên sale		Loại mặt hàng			Hình thức vận chuyển		Đóng gói -->
+![alt text](image-1.png)
+
+
+
+
 
 <!-- 4. Phân tích Dim & Fact -->
-<!-- !  ảnh -->
-
+![alt text](image.png)
 <!-- 5. Vẽ data model -->
-<!-- !   hcn d -->
+<!-- !     diagram -->
 
+
+
+
+
+<!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
+<!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
+<!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
+<!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
+<!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
+<!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
+<!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
 <!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
 
 <!-- 1. ETL dữ liệu (Merge 2 sheet với nhau) -->
