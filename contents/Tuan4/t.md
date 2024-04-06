@@ -66,15 +66,15 @@ Thời gian
 <!-- !\subsubsection{Video 4} -->
 <!-- !\subsubsection{Video 4} -->
 \caption{Hướng dẫn thực hiện  Add index column}
-![alt text](Bai1/Video4/HuongDan/image.png)
+![alt text](Bai1/Video4/HuongDan/0.png)
 \caption{Hướng dẫn thực hiện  Add duplicate column}
-![alt text](Bai1/Video4/HuongDan/image-1.png)
+![alt text](Bai1/Video4/HuongDan/1.png)
 \caption{Hướng dẫn thực hiện  Add conditional column}
-![alt text](Bai1/Video4/HuongDan/image-2.png)
+![alt text](Bai1/Video4/HuongDan/2.png)
 \caption{Hướng dẫn thực hiện  Add custom column}
-![alt text](Bai1/Video4/HuongDan/image-3.png)
+![alt text](Bai1/Video4/HuongDan/3.png)
 \caption{Hướng dẫn thực hiện  Add column bằng Invoke function}
-![alt text](Bai1/Video4/HuongDan/image-4.png)
+![alt text](Bai1/Video4/HuongDan/4.png)
 
 
 
