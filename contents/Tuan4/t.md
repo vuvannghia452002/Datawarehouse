@@ -1,7 +1,3 @@
-<!-- !\subsubsection{Video 3} -->
-
-\caption{Hướng dẫn Load dữ liệu và xây dựng Data Model }
-![alt text](Bai1/Video3/HuongDan/image.png)
 
 <!-- Dim & Fact: Bảng nào là dữ liệu động, bảng nào là dữ liệu tĩnh? -->
 
