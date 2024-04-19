@@ -1,10 +1,14 @@
+\textbf{Câu hỏi:}   Bài tập cơ bản: Thực hành với sheet Sale của file KinhDoanh.xlsx:
+<!-- \bengin -->
+<!-- \bengin --> caption
+<!-- \bengin --> caption
+<!-- \bengin --> caption
+<!-- \bengin --> caption
 
-
-<!-- ! Bài tập cơ bản: Thực hành với sheet Sale của file KinhDoanh.xlsx: -->
 <!-- 1. ETL dữ liệu -->
 ![alt text](Bai1/Video3/ThucHanh/image.png)
-<!-- 2. Viết requirement -->
 
+<!-- 2. Viết requirement -->
 Phân tích về doanh thu trên khía cạnh thời gian.
 
 <!-- 3. Lên bảng danh mục các cột (vẽ voi) -->
@@ -15,8 +19,9 @@ Phân tích về doanh thu trên khía cạnh thời gian.
 <!-- 5. Vẽ data model -->
 <!-- !     diagram -->
 
+
 <!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
-<!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
+\textbf{Câu hỏi:}  Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx:
 <!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
 <!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
 <!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
@@ -25,10 +30,15 @@ Phân tích về doanh thu trên khía cạnh thời gian.
 <!-- ! Bài tập nâng cao: Thực hành với sheet Sale và sheet Marketing của file KinhDoanh.xlsx: -->
 
 <!-- 1. ETL dữ liệu (Merge 2 sheet với nhau) -->
+
 <!-- 2. Viết requirement -->
+
 <!-- 3. Lên bảng danh mục các cột (vẽ voi) -->
+
 <!-- 4. Phân tích Dim & Fact -->
+
 <!-- 5. Vẽ data model -->
+
 
 <!-- !\subsubsection{Video 4} -->
 <!-- !\subsubsection{Video 4} -->
